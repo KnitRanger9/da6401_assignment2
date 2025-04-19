@@ -1,5 +1,7 @@
 # da6401_assignment2
 
+wandb report link: https://wandb.ai/da24m004-iitmaana/inaturalist-cnn-sweep_01/reports/DA6401-Assignment-2--VmlldzoxMjM1MTU4Mg?accessToken=1dqoxs39cnvul3uf5u67wu2y8z75zn4vdoo07m5wuwnn90z8795pw7323cb5vxza
+
 # PART A
 
 ## Features
